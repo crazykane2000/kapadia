@@ -1,0 +1,44 @@
+
+.pops
+{
+    font-family:'open sans';
+    color:#777;
+    font-size:12px;
+    letter-spacing:2px;
+    transition: all .2s ease-in-out 0s;
+    text-decoration: none;
+    text-decoration: none;
+}
+
+.pops:hover
+{
+    font-family:'open sans';
+    color:#fff;
+    font-size:12px;
+    letter-spacing:2px;
+    transition: all .2s ease-in-out 0s;
+    text-decoration: none;
+}
+
+
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background: #b79b1b;
+}
+
+::selection {
+    color: #fff; 
+    background: #b79b1b;
+}
+
+
+.gamp {
+    background-color: #111;
+    transition: all .5s ease-in-out 0s;
+}
+
+
+.gamp:hover {
+    background-color: #2b2c06;
+    transition: all .5s ease-in-out 0s;
+}
